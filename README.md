@@ -1,4 +1,4 @@
-# worldgdp
+# World GDP 2019
 This is a choropleth geomap which displays countries of the world by GDP 2019
 
 ![image](https://user-images.githubusercontent.com/86727843/124084345-83f31080-da6c-11eb-9bb0-b8c3d96eb5f8.png)
