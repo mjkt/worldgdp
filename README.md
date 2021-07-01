@@ -1,8 +1,7 @@
 # worldgdp
-This is a choropleth geomap which displays countries of the world by GDP
-![image](https://user-images.githubusercontent.com/86727843/124080475-0af1ba00-da68-11eb-8cb6-80e1ce568e36.png)
-![image](https://user-images.githubusercontent.com/86727843/124080540-1e048a00-da68-11eb-8602-8e91d0558976.png)
-![image](https://user-images.githubusercontent.com/86727843/124080687-468c8400-da68-11eb-8ca0-fad022ae6b3c.png)
-![image](https://user-images.githubusercontent.com/86727843/124080773-5efc9e80-da68-11eb-8505-8898456ce0b0.png)
+This is a choropleth geomap which displays countries of the world by GDP 2019
 
-![image](https://user-images.githubusercontent.com/86727843/124081333-08dc2b00-da69-11eb-966b-5c11d9a6643e.png)
+![image](https://user-images.githubusercontent.com/86727843/124084345-83f31080-da6c-11eb-9bb0-b8c3d96eb5f8.png)
+![image](https://user-images.githubusercontent.com/86727843/124084433-98cfa400-da6c-11eb-9fcb-56da3f811802.png)
+![image](https://user-images.githubusercontent.com/86727843/124084492-a9801a00-da6c-11eb-89aa-3239b1faa99a.png)
+
